@@ -18,4 +18,5 @@ F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount  Band, 
 ### Criação da Coluna condicional
 ![Captura de tela 2024-10-07 230518](https://github.com/user-attachments/assets/370ff34e-1f0f-408d-a9c5-95773adf99ab)
 
+### Em resumo conforme solicitado foram realizados tambem alterações na ordem das colunas. Segue Aquivo salvo.
 
